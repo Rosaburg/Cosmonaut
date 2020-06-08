@@ -6,5 +6,5 @@ Open access course material.
 
 | Date | Lectures |
 | --- | --- |
-| 05/01/20 | Lecture 1 |
-| 05/03/20 | Lectures 1 & 2 | 
+| 06/01/20 | Lecture 1 |
+| 06/03/20 | Lectures 1 & 2 | 
