@@ -11,3 +11,10 @@ Open access course material.
 | 06/01/20 | Lecture 1 |
 | 06/03/20 | Lectures 1 & 2 | 
 | 06/08/20 | Lectures 2 & 3 |
+
+
+#### Additional Resources 
+
+##### Glossary
+
+- [Glossary 1 - test 1](https://github.com/Rosaburg/Cosmonaut/blob/master/resources/glossary/glossary1.pdf?raw=true)
