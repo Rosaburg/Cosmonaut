@@ -15,6 +15,8 @@ Open access course material.
 | 06/10/20 | Lecture 3 |
 | 06/15/20 | Constellations & Lecture 3 |
 | 06/18/20 | Lecture 3 |
+| 06/22/20 | Lecture 3, 4, 5 & 5A |
+| 06/24/20 | Lecture 5A, 6 & 7 | 
 
 
 
