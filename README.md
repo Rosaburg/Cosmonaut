@@ -13,6 +13,7 @@ Open access course material.
 | L5A - Calendars | [PowerPoint](https://github.com/Rosaburg/Cosmonaut/blob/master/Powerpoint/L5A%20-%20Calendars.pptx?raw=true) | [PDF](https://github.com/Rosaburg/Cosmonaut/blob/master/PDF/L5A%20-%20Calendars_OCR.pdf?raw=true) |
 | L6 - Lunar Phases & Tides | [PowerPoint](https://github.com/Rosaburg/Cosmonaut/blob/master/Powerpoint/L6%20-%20Lunar%20Phases%20%26%20Tides.pptx?raw=true) | [PDF](https://github.com/Rosaburg/Cosmonaut/blob/master/PDF/L6%20-%20Lunar%20Phases%20%26%20Tides_OCR.pdf?raw=true) |
 | L7 - Eclipses | [PowerPoint](https://github.com/Rosaburg/Cosmonaut/blob/master/Powerpoint/L7%20-%20Eclipses.pptx?raw=true) | [PDF](https://github.com/Rosaburg/Cosmonaut/blob/master/PDF/L7%20-%20Eclipses_OCR.pdf?raw=true) |
+| L8 - Light | [PowerPoint](https://github.com/Rosaburg/Cosmonaut/blob/master/Powerpoint/L8%20-%20Light.pptx?raw=true) | [PDF](https://github.com/Rosaburg/Cosmonaut/blob/master/PDF/L8%20-%20Light_OCR.pdf?raw=true) |
 
 | Date | Lectures |
 | --- | --- |
