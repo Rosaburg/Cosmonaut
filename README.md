@@ -24,6 +24,7 @@ Open access course material.
 | 06/18/20 | Lecture 3 |
 | 06/22/20 | Lecture 3, 4, 5 & 5A |
 | 06/24/20 | Lecture 5A, 6 & 7 | 
+| 06/29/20 | Lecture 7 & 8 |
 
 
 
